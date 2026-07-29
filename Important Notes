@@ -1,0 +1,4 @@
+This project has been tested only in simulation.
+Flight behavior may vary depending on ArduPilot version and parameter configuration.
+Aerobatic flight can be inherently unstable.
+Additional tuning may be required for different vehicle models.
