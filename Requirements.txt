@@ -1,0 +1,7 @@
+Ubuntu 22.04
+Python 3.x
+PyMAVLink
+ArduPilot SITL
+Gazebo Harmonic
+ArduPilot Gazebo Plugin
+iris_with_gimbal simulation model
